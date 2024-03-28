@@ -1,7 +1,9 @@
 # level-interview
 
 ## Level 1
+
 ### Java
+
 - [접근 제어자의 차이점](https://github.com/2024-woowacourse-study/level-interview/discussions/8)
 - [인터페이스와 추상 클래스의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/11)
 - [원시값 포장과 VO의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/4)
@@ -42,8 +44,8 @@
 - [Record 클래스란](https://github.com/2024-woowacourse-study/level-interview/discussions/102)
 - [Atomic Type이란](https://github.com/2024-woowacourse-study/level-interview/discussions/97)
 
-
 ### OOP
+
 - [좋은 객체의 정의](https://github.com/2024-woowacourse-study/level-interview/discussions/6)
 - [SOLID 원칙에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/81)
 - [God Class를 지양하는 이유](https://github.com/2024-woowacourse-study/level-interview/discussions/7)
@@ -62,17 +64,41 @@
 - [템플릿 메서드 패턴에 대한 설명과 사용 경험](https://github.com/2024-woowacourse-study/level-interview/discussions/57)
 - [전략 패턴에 대한 설명과 사용 경험](https://github.com/2024-woowacourse-study/level-interview/discussions/15)
 - [상태 패턴에 대한 설명과 사용 경험](https://github.com/2024-woowacourse-study/level-interview/discussions/55)
-- [커맨트 패턴에 대한 설명과 사용 경험](https://github.com/2024-woowacourse-study/level-interview/discussions/94)
+- [커맨드 패턴에 대한 설명과 사용 경험](https://github.com/2024-woowacourse-study/level-interview/discussions/94)
+- [상태 패턴에 대한 설명과 사용 경험](https://github.com/2024-woowacourse-study/level-interview/discussions/55)
 - [캐싱의 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/35)
 
-
 ### Clean Code
-- [질문명](url)
 
+- [클린코드에 대한 개인적인 견해](https://github.com/2024-woowacourse-study/level-interview/discussions/9)
+- [가독성이 높은 코드를 작성하기 위한 개인적인 노력](https://github.com/2024-woowacourse-study/level-interview/discussions/23)
+- [자바 네이밍 컨벤션에 대 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/107)
+- [미션을 진행하면서 랜덤 값을 테스트한 경험](https://github.com/2024-woowacourse-study/level-interview/discussions/110)
+- [주석 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/108)
+- [좋은 예외 처리에 대한 개인적인 견해](https://github.com/2024-woowacourse-study/level-interview/discussions/26)
+- [명확하지만 너무 긴 메서드명 vs 명확하지 않지만 짧은 메서드명](https://github.com/2024-woowacourse-study/level-interview/discussions/106)
+- [null, optional, 널 객체 특징과 어떤 방식을 선호하는지 근거와 함께 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/100)
+- [null 리턴의 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/75)
+- [인자가 많은 메서드의 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/74)
+- [정적 팩토리 메서드의 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/29)
 - [불변성에 대한 설명과 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/17)
 - [불변 객체와 가변 객체의 차이점](https://github.com/2024-woowacourse-study/level-interview/discussions/111)
-
+- [방어적 복사와 불변 컬렉션을 사용하는 상황](https://github.com/2024-woowacourse-study/level-interview/discussions/50)
+- [멤버변수가 많은 클래스의 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/54)
 
 ### Test
-- [질문명](url)
 
+- [자신만의 테스트 철학](https://github.com/2024-woowacourse-study/level-interview/discussions/24)
+- [테스트 코드를 작성하는 이유](https://github.com/2024-woowacourse-study/level-interview/discussions/40)
+- [단위 테스트에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/10)
+- [본인이 생각하는 좋은 테스트 코드의 특징](https://github.com/2024-woowacourse-study/level-interview/discussions/42)
+- [@BeforeEach를 사용한 테스트의 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/101)
+- [주어진 테스트 코드의 문제점](https://github.com/2024-woowacourse-study/level-interview/discussions/48)
+- [테스트 대역 종류와 사용 상황 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/41)
+- [assertJ와 junit의 차이점](https://github.com/2024-woowacourse-study/level-interview/discussions/36)
+- [TDD의 장점과 TDD를 해본 소감](https://github.com/2024-woowacourse-study/level-interview/discussions/37)
+- [예외 메세지 테스트에 대한 개인적인 견해](https://github.com/2024-woowacourse-study/level-interview/discussions/72)
+- [테스트에서만 필요한 메서드에 대한 개인적인 견해](https://github.com/2024-woowacourse-study/level-interview/discussions/44)
+- [private 메서드를 테스트해야하는 지에 대한 개인적인 견해](https://github.com/2024-woowacourse-study/level-interview/discussions/43)
+- [테스트 커버리지가 높다고 무조건 좋은지에 대한 개인적인 견해](https://github.com/2024-woowacourse-study/level-interview/discussions/45)
+- [테스트 코드에서 리플렉션을 이용한 extracting 메서드에 대한 개인적인 견해](https://github.com/2024-woowacourse-study/level-interview/discussions/104)
