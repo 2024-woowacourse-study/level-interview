@@ -121,7 +121,31 @@
 
 ### Network
 
-[제목](링크)
+[포트에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/231)
+[Private IP와 Public IP의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/210)
+[TCP와 UDP의 차이점](https://github.com/2024-woowacourse-study/level-interview/discussions/215)
+[TCP/IP 인터넷 프로토콜 스위트](https://github.com/2024-woowacourse-study/level-interview/discussions/214)
+[TCP 3-way handshake](https://github.com/2024-woowacourse-study/level-interview/discussions/187)
+[Connection Timeout, Socket Timeout, Read Timeout의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/144)
+[서브넷 마스크에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/212)
+[CIDR에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/207)
+[Classless Routing 도입한 이유](https://github.com/2024-woowacourse-study/level-interview/discussions/206)
+[검색창에 www.techcourse.woowahan.com을 검색하면 결과가 브라우저에 렌더링되기 전까지 어떤 일이 발생할까요?](https://github.com/2024-woowacourse-study/level-interview/discussions/204)
+[URI, URL, URN에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/191)
+[WAS와 웹서버의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/154)
+[HTTP 메시지 구성에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/170)
+[HTTP GET과 POST에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/171)
+[HTTP PATCH와 PUT의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/147)
+[HTTP Status Code에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/205)
+[HTTP, HTTPS의 차이와 HTTPS 동작 방식](https://github.com/2024-woowacourse-study/level-interview/discussions/195)
+[HttpOnly 쿠키 옵션을 설정하는 이유](https://github.com/2024-woowacourse-study/level-interview/discussions/218)
+[Http 멱등성](https://github.com/2024-woowacourse-study/level-interview/discussions/118)
+[CORS 에러에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/167)
+[PRG 패턴에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/200)
+[RESTful에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/172)
+[PathVariable과 QueryParam의 차이와 주 사용처에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/136)
+[Cookie와 Session의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/135)
+[블로킹, 논블로킹, 동기, 비동기에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/138)
 
 ### Spring Boot
 
