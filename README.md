@@ -114,7 +114,9 @@
 
 ### Spring Boot
 
-[제목](링크)
+[톰캣이란 무엇인가?](https://github.com/2024-woowacourse-study/level-interview/discussions/243)
+[Spring과 Spring Boot의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/183)
+[AutoConfiguration 동작 원리](https://github.com/2024-woowacourse-study/level-interview/discussions/124)
 
 ### Spring Core
 
@@ -126,7 +128,13 @@
 
 ### Spring MVC
 
-[제목](링크)
+[ExceptionHandler은 어떻게 작동하는지](https://github.com/2024-woowacourse-study/level-interview/discussions/162)
+[@ResponseBody(or ResponseEntity<T>)가 있을 때와 없을 때의 동작 방식 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/194)
+[Filter와 Interceptor의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/182)
+[Spring MVC의 실행 흐름에 대해 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/152)
+[@Controller 와 @RestController 의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/139)
+[ControllerAdvice에 대해 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/137)
+[RequestBody와 ModelAttribute 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/117)
 
 ### Spring Test
 
