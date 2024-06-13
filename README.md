@@ -130,24 +130,24 @@
 
 ### Spring Test
 
-[Classist vs Mockist](https://github.com/2024-woowacourse-study/level-interview/discussions/235)
-[Spring Test에서 @Mock과 @Spy의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/168)
-[단위 테스트, 통합 테스트, 슬라이스 테스트, 인수 테스트](https://github.com/2024-woowacourse-study/level-interview/discussions/229)
-[스프링 테스트에서 @Autowired 어노테이션을 달아줘야만 객체 주입이 되는 이유](https://github.com/2024-woowacourse-study/level-interview/discussions/225)
-[MockMvc와 Restassued의 차이점](https://github.com/2024-woowacourse-study/level-interview/discussions/208)
-[SpringBootTest의 WebEnvironment 설정 종류](https://github.com/2024-woowacourse-study/level-interview/discussions/141)
-[SpringBootTest와 WebMvcTest의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/129)
-[테스트 격리 방법과 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/122)
+[Classist vs Mockist](https://github.com/2024-woowacourse-study/level-interview/discussions/235)    
+[Spring Test에서 @Mock과 @Spy의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/168)      
+[단위 테스트, 통합 테스트, 슬라이스 테스트, 인수 테스트](https://github.com/2024-woowacourse-study/level-interview/discussions/229)     
+[스프링 테스트에서 @Autowired 어노테이션을 달아줘야만 객체 주입이 되는 이유](https://github.com/2024-woowacourse-study/level-interview/discussions/225)    
+[MockMvc와 Restassued의 차이점](https://github.com/2024-woowacourse-study/level-interview/discussions/208)    
+[SpringBootTest의 WebEnvironment 설정 종류](https://github.com/2024-woowacourse-study/level-interview/discussions/141)    
+[SpringBootTest와 WebMvcTest의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/129)    
+[테스트 격리 방법과 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/122)   
 
 ### Spring 뒷고기
-
-[배포 환경 민감 정보(시크릿 키, DB 비밀번호 등)를 숨기는 방법](https://github.com/2024-woowacourse-study/level-interview/discussions/240)
-[openapi vs swagger](https://github.com/2024-woowacourse-study/level-interview/discussions/230)
-[서블릿이란?](https://github.com/2024-woowacourse-study/level-interview/discussions/216)
-[SSR과 CSR의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/213)
-[RestDocs와 Swagger의 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/211)
-[RestTemplate vs RestClient vs WebClient vs Feign](https://github.com/2024-woowacourse-study/level-interview/discussions/199)
-[JWT가 무엇이고, 세션 대신 사용하는 이유](https://github.com/2024-woowacourse-study/level-interview/discussions/164)
-[Dto와 Entity의 변환 layer는 어디가 적당한가?](https://github.com/2024-woowacourse-study/level-interview/discussions/142)
-[Repository, DAO의 차이와 패키지 구조](https://github.com/2024-woowacourse-study/level-interview/discussions/123)
-[Layered Architecture의 장점](https://github.com/2024-woowacourse-study/level-interview/discussions/121)
+  
+[배포 환경 민감 정보(시크릿 키, DB 비밀번호 등)를 숨기는 방법](https://github.com/2024-woowacourse-study/level-interview/discussions/240)       
+[openapi vs swagger](https://github.com/2024-woowacourse-study/level-interview/discussions/230)    
+[서블릿이란?](https://github.com/2024-woowacourse-study/level-interview/discussions/216)   
+[SSR과 CSR의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/213)   
+[RestDocs와 Swagger의 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/211)   
+[RestTemplate vs RestClient vs WebClient vs Feign](https://github.com/2024-woowacourse-study/level-interview/discussions/199)   
+[JWT가 무엇이고, 세션 대신 사용하는 이유](https://github.com/2024-woowacourse-study/level-interview/discussions/164)   
+[Dto와 Entity의 변환 layer는 어디가 적당한가?](https://github.com/2024-woowacourse-study/level-interview/discussions/142)   
+[Repository, DAO의 차이와 패키지 구조](https://github.com/2024-woowacourse-study/level-interview/discussions/123)   
+[Layered Architecture의 장점](https://github.com/2024-woowacourse-study/level-interview/discussions/121)   
