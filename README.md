@@ -118,7 +118,20 @@
 
 ### Spring Core
 
-[제목](링크)
+[Spring을 사용하는 이유와 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/196)  
+[AOP란](https://github.com/2024-woowacourse-study/level-interview/discussions/197)  
+[빈 스코프란?](https://github.com/2024-woowacourse-study/level-interview/discussions/134)  
+[빈 주입 방식 4가지](https://github.com/2024-woowacourse-study/level-interview/discussions/119)  
+[BeanFactory와 ApplicationContext의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/160)  
+[IoC Container과 Bean의 기본 개념](https://github.com/2024-woowacourse-study/level-interview/discussions/148)  
+[@Component, @Service, @Controller, @Repository의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/120)  
+[@Configuration과 @Component의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/128)  
+[jakarta.validation과 org.springframework.validation 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/237)  
+[@Value 어노테이션 사용 시 주의할 점](https://github.com/2024-woowacourse-study/level-interview/discussions/227)  
+[@Profile이란](https://github.com/2024-woowacourse-study/level-interview/discussions/219)  
+[Spring Properties란](https://github.com/2024-woowacourse-study/level-interview/discussions/217)  
+[@ConfigurationProperties의 장점](https://github.com/2024-woowacourse-study/level-interview/discussions/169)  
+[CGLIB에 대한 설명과 동작방식](https://github.com/2024-woowacourse-study/level-interview/discussions/185)  
 
 ### Spring Data
 
