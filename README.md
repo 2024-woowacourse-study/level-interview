@@ -122,7 +122,34 @@
 
 ### Spring Data
 
-[제목](링크)
+[JPA를 사용하는 이유](https://github.com/2024-woowacourse-study/level-interview/discussions/220)  
+[JPA, Hibernate, Spring Data JPA의 차이점](https://github.com/2024-woowacourse-study/level-interview/discussions/180)  
+[JPA에서 새로운 Entity인지 판단하는 방법](https://github.com/2024-woowacourse-study/level-interview/discussions/127)  
+[ddl-auto 옵션에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/161)  
+[엔티티 매니저에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/239)  
+[영속성 컨텍스트에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/181)  
+[더티 체킹 동작 방식에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/157)  
+[엔티티의 생명주기에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/153)  
+[JPA Entity에서 기본 생성자가 필요한 이유](https://github.com/2024-woowacourse-study/level-interview/discussions/163)  
+[JPA에서 ID 생성 전략에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/221)  
+[JPA 엔티티에 대한 equals 재정의 시 주의해야할 점](https://github.com/2024-woowacourse-study/level-interview/discussions/222)  
+[JPA에서 양방향 연관관계가 필요한 경우와, 사용할 때 주의할 점](https://github.com/2024-woowacourse-study/level-interview/discussions/131)  
+[즉시 로딩과 지연 로딩의 차이점](https://github.com/2024-woowacourse-study/level-interview/discussions/159)  
+[N + 1 문제와 해결 방법](https://github.com/2024-woowacourse-study/level-interview/discussions/150)  
+[@OneToMany에서 fetch join과 페이지네이션 API 함께 사용하면 발생하는 일](https://github.com/2024-woowacourse-study/level-interview/discussions/201)  
+[@Embedded와 @Embeddable의 차이점](https://github.com/2024-woowacourse-study/level-interview/discussions/166)  
+[@EntityGraph와 fetchJoin의 차이점](https://github.com/2024-woowacourse-study/level-interview/discussions/175)  
+[@OneToOne 연관관계일 때 지연 로딩으로 설정하면 발생하는 일](https://github.com/2024-woowacourse-study/level-interview/discussions/203)  
+[@Modifying에 대한 설명과 주의사항](https://github.com/2024-woowacourse-study/level-interview/discussions/202)  
+[JPQL과 JPA 기본 메소드, 쿼리 메소드의 차이점](https://github.com/2024-woowacourse-study/level-interview/discussions/177)  
+[cascade.REMOVE 와 orphanremoval의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/226)  
+[@JoinColumn 과 mappedBy 속성에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/224)  
+[@Transactional(readOnly = true)를 적용했을 때와 아무 어노테이션을 적용하지 않았을 때 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/209)  
+[@Transactional에 readOnly 옵션을 사용하는 이유](https://github.com/2024-woowacourse-study/level-interview/discussions/151)  
+[@Transactional 전파 속성에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/228)  
+[@Transactional에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/146)  
+[OSIV 옵션에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/145)  
+[왜 JpaRepository를 impelement한 인터페이스를 사용하기만 하는데, save()와 같은 함수를 통해 DB에 저장할 수 있나?](https://github.com/2024-woowacourse-study/level-interview/discussions/130)
 
 ### Spring MVC
 
