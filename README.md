@@ -106,7 +106,18 @@
 
 ### Database
 
-[제목](링크)
+[Transaction Schedule이란?](https://github.com/2024-woowacourse-study/level-interview/discussions/179)
+[비관락, 낙관락에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/234)
+[페이지네이션과 무한 스크롤링의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/198)
+[DB 선택 기준 (CAP)](https://github.com/2024-woowacourse-study/level-interview/discussions/193)
+[OLAP, OLTP에 대한 개념 및 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/192)
+[인덱스에 대한 설명과 구조](https://github.com/2024-woowacourse-study/level-interview/discussions/186)
+[트랜잭션에 대한 설명과 특성(ACID)](https://github.com/2024-woowacourse-study/level-interview/discussions/190)
+[트랜잭션 Isolation Level에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/189)
+[정규화에 대한 설명과 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/188)
+[DB Lock의 종류](https://github.com/2024-woowacourse-study/level-interview/discussions/178)
+[FK 지정 시 주의해야 할 점](https://github.com/2024-woowacourse-study/level-interview/discussions/176)
+[인메모리 데이터베이스의 특징](https://github.com/2024-woowacourse-study/level-interview/discussions/133)
 
 ### Network
 
