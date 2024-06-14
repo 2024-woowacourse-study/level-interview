@@ -152,8 +152,8 @@
 ### Spring Boot
 
 38. [톰캣이란 무엇인가?](https://github.com/2024-woowacourse-study/level-interview/discussions/243)
-39. [Spring과 Spring Boot의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/183)
-40. [AutoConfiguration 동작 원리](https://github.com/2024-woowacourse-study/level-interview/discussions/124)
+39. [AutoConfiguration 동작 원리](https://github.com/2024-woowacourse-study/level-interview/discussions/124)
+40. [Spring과 Spring Boot의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/183)
 
 ### Spring Core
 
@@ -161,8 +161,8 @@
 42. [AOP란](https://github.com/2024-woowacourse-study/level-interview/discussions/197)  
 43. [빈 스코프란](https://github.com/2024-woowacourse-study/level-interview/discussions/134)
 44. [빈 주입 방식 4가지](https://github.com/2024-woowacourse-study/level-interview/discussions/119)
-45. [BeanFactory와 ApplicationContext의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/160)
-46. [IoC Container과 Bean의 기본 개념](https://github.com/2024-woowacourse-study/level-interview/discussions/148)
+45. [IoC Container과 Bean의 기본 개념](https://github.com/2024-woowacourse-study/level-interview/discussions/148)
+46. [BeanFactory와 ApplicationContext의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/160)
 47. [@Component, @Service, @Controller, @Repository의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/120)
 48. [@Configuration과 @Component의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/128)
 49. [jakarta.validation과 org.springframework.validation 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/237)
@@ -179,8 +179,8 @@
 57. [JPA에서 새로운 Entity인지 판단하는 방법](https://github.com/2024-woowacourse-study/level-interview/discussions/127)
 58. [ddl-auto 옵션에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/161)
 59. [엔티티 매니저에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/239)
-60. [영속성 컨텍스트에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/181)
-61. [더티 체킹 동작 방식에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/157)
+60. [더티 체킹 동작 방식에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/157)
+61. [영속성 컨텍스트에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/181)
 62. [엔티티의 생명주기에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/153)
 63. [JPA Entity에서 기본 생성자가 필요한 이유](https://github.com/2024-woowacourse-study/level-interview/discussions/163)
 64. [JPA에서 ID 생성 전략에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/221)
