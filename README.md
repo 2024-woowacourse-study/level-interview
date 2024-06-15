@@ -157,7 +157,7 @@
 
 ### Spring Core
 
-41. [Spring을 사용하는 이유와 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/196)
+41. [@Value 어노테이션 사용 시 주의할 점](https://github.com/2024-woowacourse-study/level-interview/discussions/227)
 42. [AOP란](https://github.com/2024-woowacourse-study/level-interview/discussions/197)  
 43. [빈 스코프란](https://github.com/2024-woowacourse-study/level-interview/discussions/134)
 44. [빈 주입 방식 4가지](https://github.com/2024-woowacourse-study/level-interview/discussions/119)
@@ -166,7 +166,7 @@
 47. [@Component, @Service, @Controller, @Repository의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/120)
 48. [@Configuration과 @Component의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/128)
 49. [jakarta.validation과 org.springframework.validation 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/237)
-50. [@Value 어노테이션 사용 시 주의할 점](https://github.com/2024-woowacourse-study/level-interview/discussions/227)
+50. [Spring을 사용하는 이유와 장단점](https://github.com/2024-woowacourse-study/level-interview/discussions/196)
 51. [@Profile이란](https://github.com/2024-woowacourse-study/level-interview/discussions/219)
 52. [Spring Properties란](https://github.com/2024-woowacourse-study/level-interview/discussions/217)
 53. [@ConfigurationProperties의 장점](https://github.com/2024-woowacourse-study/level-interview/discussions/169)
