@@ -111,7 +111,7 @@
 1. [Transaction Schedule이란?](https://github.com/2024-woowacourse-study/level-interview/discussions/179)
 2. [비관락, 낙관락에 대한 설명](https://github.com/2024-woowacourse-study/level-interview/discussions/234)
 3. [페이지네이션과 무한 스크롤링의 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/198)
-4. [DB 선택 기준 (CAP)](https://github.com/2024-woowacourse-study/level-interview/discussions/193)
+4. [CAP](https://github.com/2024-woowacourse-study/level-interview/discussions/193)
 5. [OLAP, OLTP에 대한 개념 및 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/192)
 6. [인덱스에 대한 설명과 구조](https://github.com/2024-woowacourse-study/level-interview/discussions/186)
 7. [트랜잭션에 대한 설명과 특성(ACID)](https://github.com/2024-woowacourse-study/level-interview/discussions/190)
