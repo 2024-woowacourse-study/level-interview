@@ -240,6 +240,19 @@
 </details>
 
 <details>
+  <summary><h2>Level 3</h2></summary>
+
+### 컴퓨터구조
+
+1. [명령어 사이클](https://github.com/2024-woowacourse-study/level-interview/discussions/257)
+2. [CPU 성능 높이는 방법](https://github.com/2024-woowacourse-study/level-interview/discussions/258)
+3. [명령어 파이프라이닝과 해저드](https://github.com/2024-woowacourse-study/level-interview/discussions/259)
+4. [명령어 병렬 처리 기법](https://github.com/2024-woowacourse-study/level-interview/discussions/260)
+5. [CISC와 RISC](https://github.com/2024-woowacourse-study/level-interview/discussions/261)
+
+</details>
+
+<details>
   <summary><h2>미션 뒷고기</h2></summary>
 
 1. [어드민 뒷고기](https://github.com/2024-woowacourse-study/level-interview/discussions/126)
