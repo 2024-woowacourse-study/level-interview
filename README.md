@@ -249,6 +249,12 @@
 3. [명령어 파이프라이닝과 해저드](https://github.com/2024-woowacourse-study/level-interview/discussions/259)
 4. [명령어 병렬 처리 기법](https://github.com/2024-woowacourse-study/level-interview/discussions/260)
 5. [CISC와 RISC](https://github.com/2024-woowacourse-study/level-interview/discussions/261)
+6. [DRAM, SRAM 차이](https://github.com/2024-woowacourse-study/level-interview/discussions/263)
+7. [물리주소와 논리주소, 메모리 보호 기법](https://github.com/2024-woowacourse-study/level-interview/discussions/264)
+8. [참조 지역성](https://github.com/2024-woowacourse-study/level-interview/discussions/265)
+9. [하드디스크 접근 시간](https://github.com/2024-woowacourse-study/level-interview/discussions/266)
+10. [RAID](https://github.com/2024-woowacourse-study/level-interview/discussions/267)
+11. [인터럽트 기반 입출력, DMA 입출력](https://github.com/2024-woowacourse-study/level-interview/discussions/268)
 
 </details>
 
