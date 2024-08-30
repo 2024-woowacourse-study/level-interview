@@ -258,7 +258,7 @@
 
 ### 운영체제
 
-1. [이중모드와 시스템콜](https://github.com/2024-woowacourse-study/level-interview/discussions/270)
+1. [이중 모드와 시스템 콜](https://github.com/2024-woowacourse-study/level-interview/discussions/270)
 2. [프로세스](https://github.com/2024-woowacourse-study/level-interview/discussions/271)
 3. [스레드](https://github.com/2024-woowacourse-study/level-interview/discussions/272)
 4. [컨텍스트 스위칭](https://github.com/2024-woowacourse-study/level-interview/discussions/273)
