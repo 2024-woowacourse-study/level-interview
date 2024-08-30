@@ -268,12 +268,15 @@
 8. [데드락](https://github.com/2024-woowacourse-study/level-interview/discussions/277)
 9. [메모리 스와핑](https://github.com/2024-woowacourse-study/level-interview/discussions/278)
 10. [연속 메모리 할당과 외부 단편화](https://github.com/2024-woowacourse-study/level-interview/discussions/279)
-11. [가상 메모리와 페이징](https://github.com/2024-woowacourse-study/level-interview/discussions/280)
-12. [페이지 교체 알고리즘](https://github.com/2024-woowacourse-study/level-interview/discussions/281)
-13. [프레임 할당 방식과 스레싱](https://github.com/2024-woowacourse-study/level-interview/discussions/282)
-14. [파일 할당 방법](https://github.com/2024-woowacourse-study/level-interview/discussions/283)
-15. [파일 시스템(FAT,UNIX)](https://github.com/2024-woowacourse-study/level-interview/discussions/284)
-16. [마운트](https://github.com/2024-woowacourse-study/level-interview/discussions/285)
+11. [가상 메모리](https://github.com/2024-woowacourse-study/level-interview/discussions/287)
+12. [페이징](https://github.com/2024-woowacourse-study/level-interview/discussions/280)
+13. [페이징 이점](https://github.com/2024-woowacourse-study/level-interview/discussions/288)
+14. [계층적 페이징](https://github.com/2024-woowacourse-study/level-interview/discussions/289)
+15. [페이지 교체 알고리즘](https://github.com/2024-woowacourse-study/level-interview/discussions/281)
+16. [프레임 할당 방식과 스레싱](https://github.com/2024-woowacourse-study/level-interview/discussions/282)
+17. [파일 할당 방법](https://github.com/2024-woowacourse-study/level-interview/discussions/283)
+18. [파일 시스템(FAT,UNIX)](https://github.com/2024-woowacourse-study/level-interview/discussions/284)
+19. [마운트](https://github.com/2024-woowacourse-study/level-interview/discussions/285)
 
 </details>
 
