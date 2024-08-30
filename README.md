@@ -256,6 +256,25 @@
 10. [RAID](https://github.com/2024-woowacourse-study/level-interview/discussions/267)
 11. [인터럽트 기반 입출력, DMA 입출력](https://github.com/2024-woowacourse-study/level-interview/discussions/268)
 
+### 운영체제
+
+1. [이중모드와 시스템콜](https://github.com/2024-woowacourse-study/level-interview/discussions/270)
+2. [프로세스](https://github.com/2024-woowacourse-study/level-interview/discussions/271)
+3. [스레드](https://github.com/2024-woowacourse-study/level-interview/discussions/272)
+4. [컨텍스트 스위칭](https://github.com/2024-woowacourse-study/level-interview/discussions/273)
+5. [IPC](https://github.com/2024-woowacourse-study/level-interview/discussions/274)
+6. [CPU 스케줄링 알고리즘](https://github.com/2024-woowacourse-study/level-interview/discussions/275)
+7. [프로세스 간 동기화 기법](https://github.com/2024-woowacourse-study/level-interview/discussions/276)
+8. [데드락](https://github.com/2024-woowacourse-study/level-interview/discussions/277)
+9. [메모리 스와핑](https://github.com/2024-woowacourse-study/level-interview/discussions/278)
+10. [연속 메모리 할당과 외부 단편화](https://github.com/2024-woowacourse-study/level-interview/discussions/279)
+11. [가상 메모리와 페이징](https://github.com/2024-woowacourse-study/level-interview/discussions/280)
+12. [페이지 교체 알고리즘](https://github.com/2024-woowacourse-study/level-interview/discussions/281)
+13. [프레임 할당 방식과 스레싱](https://github.com/2024-woowacourse-study/level-interview/discussions/282)
+14. [파일 할당 방법](https://github.com/2024-woowacourse-study/level-interview/discussions/283)
+15. [파일 시스템(FAT,UNIX)](https://github.com/2024-woowacourse-study/level-interview/discussions/284)
+16. [마운트](https://github.com/2024-woowacourse-study/level-interview/discussions/285)
+
 </details>
 
 <details>
